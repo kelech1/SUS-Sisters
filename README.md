@@ -48,7 +48,7 @@ Both input files must be `.xlsx` with the following columns (column names are ca
 |---|---|---|
 | `name` | Full name | Alice Johnson |
 | `interests` | Comma-separated interests | football, reading, music |
-| `course` | Course or degree name | HND Computing |
+| `course` | Course or degree name | Engineering |
 | `year_group` | Year of study | Year 1 |
 
 ## Setup
